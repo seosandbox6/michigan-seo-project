@@ -1,4 +1,6 @@
 I am a Digital Marketing student currently documenting a real-time case study on 2026 SEO and GEO (Generative Engine Optimization) trends. My  project, [The SEO Wayfarer Blog](https://seowayfarerinmichigan.blog), explores local keyword clustering and technical onsite optimization for the Michigan digital landscape. I am using this space to track technical experiments in search visibility and the evolution of AI-driven search engines.
+
+
 ![SEO](https://img.shields.io/badge/SEO-232F3E?style=for-the-badge&logo=google-search-console&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
